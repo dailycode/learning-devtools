@@ -1,1 +1,1 @@
-** Properties ** :orange_book:
+##Properties :orange_book:
